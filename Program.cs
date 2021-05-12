@@ -14,7 +14,7 @@ namespace SolvePolyomino{
         static void Main(string[] args){
             BoadCls Boad = new BoadCls(0, 0);//ミノが収まるボード
             List<MinoCls> Mino = new List<MinoCls>();//ミノ
-            DataBaseCls DataBase = new DataBaseCls(1);//解く問題の設定のようなもの
+            DataBaseCls DataBase = new DataBaseCls(0);//解く問題のプリセットを選ぶ
             SolverCls Solver = new SolverCls();//問題を解くクラス
             UInt128OperationCls BitOpe = new UInt128OperationCls();//128ビットのビット演算を行うクラス
             System.Diagnostics.Stopwatch Timer = new System.Diagnostics.Stopwatch();//所要時間の計測

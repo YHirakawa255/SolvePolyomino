@@ -4,7 +4,7 @@ public class MinoCls    :Debug{//ミノを表すクラス
     //ミノの形状などの情報が格納されている
     //解の探索中に、このクラスのインスタンスが変更されることはない
     //探索前にSolverに必要な情報を渡すためのクラスである
-    bool EnableInvert = true;//ミノの裏表反転を許可するか
+    public bool EnableInvert = true;//ミノの裏表反転を許可するか
     bool[,] RawShape = new bool[0,0];//ミノの基本形状
     int Width, Height;//ミノの占有領域のサイズ
     int BoadW, BoadH;//盤面のサイズ
