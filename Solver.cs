@@ -206,8 +206,6 @@ public class SolverCls  :Debug{//盤面形状、ミノ形状を取得し、解�
         PrintSolution(Solution[Solution.Count - 1]);
     }
     //KKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
-
-    //KKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
     List<int[,]> CheckSameSolutoinAndGetSolutionMaps(List<List<OderCls>> Solution){//同一解を探し、片方を削除する（未実装）
         db("Checking all duplicated solution");
         int[,] Map;
@@ -324,7 +322,7 @@ public class SolverCls  :Debug{//盤面形状、ミノ形状を取得し、解�
         if(++ProgresCounter >= ProgresPrintTiming){
             // PrintFCanPut();//デバック
             // BitOpe.PrintShape(SolverBoad, Width, Height, true);//デバック
-            db($"Progress : {ProgresFin}");
+            db($"Progress : {ProgresFin} end of branch");
             ProgresCounter = 0;
             // Console.ReadLine();
         }
@@ -439,15 +437,6 @@ public class OderCls
 //KKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
 //KKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
 //KKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
-// public struct IndexItem2<T>{
-//     public T Element;
-//     public int x, y;
-//     public IndexItem2(T aug, int X, int Y){
-//         this.Element = aug;
-//         this.x = X;
-//         this.y = Y;
-//     }
-// }
 //KKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
 
 

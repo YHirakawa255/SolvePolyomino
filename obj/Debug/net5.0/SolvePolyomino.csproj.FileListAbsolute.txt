@@ -1,0 +1,15 @@
+/Users/hixyelse/Documents/GitHub/SolvePolyomino/bin/Debug/net5.0/SolvePolyomino.deps.json
+/Users/hixyelse/Documents/GitHub/SolvePolyomino/bin/Debug/net5.0/SolvePolyomino.runtimeconfig.json
+/Users/hixyelse/Documents/GitHub/SolvePolyomino/bin/Debug/net5.0/SolvePolyomino.runtimeconfig.dev.json
+/Users/hixyelse/Documents/GitHub/SolvePolyomino/bin/Debug/net5.0/SolvePolyomino.dll
+/Users/hixyelse/Documents/GitHub/SolvePolyomino/bin/Debug/net5.0/ref/SolvePolyomino.dll
+/Users/hixyelse/Documents/GitHub/SolvePolyomino/bin/Debug/net5.0/SolvePolyomino.pdb
+/Users/hixyelse/Documents/GitHub/SolvePolyomino/obj/Debug/net5.0/SolvePolyomino.csprojAssemblyReference.cache
+/Users/hixyelse/Documents/GitHub/SolvePolyomino/obj/Debug/net5.0/SolvePolyomino.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hixyelse/Documents/GitHub/SolvePolyomino/obj/Debug/net5.0/SolvePolyomino.AssemblyInfoInputs.cache
+/Users/hixyelse/Documents/GitHub/SolvePolyomino/obj/Debug/net5.0/SolvePolyomino.AssemblyInfo.cs
+/Users/hixyelse/Documents/GitHub/SolvePolyomino/obj/Debug/net5.0/SolvePolyomino.csproj.CoreCompileInputs.cache
+/Users/hixyelse/Documents/GitHub/SolvePolyomino/obj/Debug/net5.0/SolvePolyomino.dll
+/Users/hixyelse/Documents/GitHub/SolvePolyomino/obj/Debug/net5.0/ref/SolvePolyomino.dll
+/Users/hixyelse/Documents/GitHub/SolvePolyomino/obj/Debug/net5.0/SolvePolyomino.pdb
+/Users/hixyelse/Documents/GitHub/SolvePolyomino/obj/Debug/net5.0/SolvePolyomino.genruntimeconfig.cache
